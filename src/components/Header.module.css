@@ -1,6 +1,9 @@
 .header {
-    background-color: brown;
-    display:flex;
-    width: auto;
-    height: 3rem;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
 }

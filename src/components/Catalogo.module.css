@@ -1,5 +1,14 @@
 .catalogo {
-    background-color: blueviolet;
-    height: 100%;
-    width: auto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-gap: 2rem;
+    background-color: blue;
+          
 }
+
+
+
+
