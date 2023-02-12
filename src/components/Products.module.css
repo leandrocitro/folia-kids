@@ -1,0 +1,8 @@
+.products img{
+    height: 15rem;
+}
+
+.products strong{
+    justify-content: center;
+    display: flex;
+}

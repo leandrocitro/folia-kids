@@ -1,14 +1,18 @@
 .catalogo {
     display: grid;
+   
+    margin-top: 1rem;
+    grid-template-columns: 15rem 15rem 15rem 15rem;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 0.5rem;
     align-items: center;
     justify-content: center;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr ;
-    grid-gap: 2rem;
-    background-color: blue;
-          
+    justify-items: center;
+    
+        
+   }
+
+.catalogo img {
+    height: 18rem;
 }
-
-
-
 
